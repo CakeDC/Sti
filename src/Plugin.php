@@ -15,7 +15,7 @@ class Plugin extends BasePlugin
      *
      * @var string
      */
-    protected string $name = 'Sti';
+    protected ?string $name = 'Sti';
 
     /**
      * Do bootstrapping or not

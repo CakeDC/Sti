@@ -21,7 +21,7 @@ class StiBehavior extends Behavior
      *
      * @var array
      */
-    protected $_defaultConfig = [
+    protected array $_defaultConfig = [
         'table' => null,
         'typeField' => 'type',
         'typeMap' => [],
